@@ -3,9 +3,9 @@ Photo App built with React, NextJS and Unsplash API which allows the users to br
 
 ## Getting Started
 
-Live Demo: 
+### <a href="https://unsplash-photo-app.herokuapp.com/">Live Demo</a> 
 
-(1) Clone Repo 
-(2) Create an account on Unsplash for developers to retrieve access key
-(3) In your root folder, create an ```.env.local``` and enter your key ``` NEXT_PUBLIC_REACT_APP_API_KEY=```
-(4) Run ```npm i``` to install dependancies
+1. Clone Repo 
+2. Create an account on Unsplash for developers to retrieve access key
+3. In your root folder, create an ```.env.local``` and enter your key ``` NEXT_PUBLIC_REACT_APP_API_KEY=```
+4. Run ```npm i``` to install dependancies
